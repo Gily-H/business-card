@@ -1,0 +1,38 @@
+.main-container {
+  background-color: #1a1b21;
+  padding: 1.5rem 2rem;
+}
+
+.name-header {
+  font-family: sans-serif;
+  font-size: 1.6rem;
+  margin-bottom: 0.2rem;
+}
+
+.title-header {
+  color: #f3bf99;
+  font-size: 0.7rem;
+  margin-bottom: 1rem;
+}
+
+.email-button {
+  background-color: whitesmoke;
+  padding: 0.25rem 0rem;
+  border-radius: 5px;
+}
+
+.email-button:active {
+  background-color: lightslategray;
+}
+
+.fas,
+.fa-envelope {
+  color: black;
+  margin-right: 10px;
+}
+
+.mailto-link {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}

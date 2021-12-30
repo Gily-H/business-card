@@ -1,0 +1,30 @@
+.footer-container {
+  background-color: #161619;
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.social-media-icons {
+  width: 30px;
+  height: 30px;
+  margin: 0rem 1rem;
+}
+
+.twitter {
+  background: url("../images/twitter.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.linkedin {
+  background: url("../images/linkedin.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.github {
+  background: url("../images/github.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
